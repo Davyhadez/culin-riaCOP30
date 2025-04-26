@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background-image:url(./IMG/8-bit-night-sky-vyhgx5uexdbpp0xi.webp);
+    background-size:100%;
+    justify-content: center;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+a {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 20px;
+    text-decoration: none;
+    font-size: 26px;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+}
